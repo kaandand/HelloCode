@@ -11,3 +11,9 @@ Console.Write("Введите ваше имя ");
 string username2 = Console.ReadLine();
 Console.Write("Привет, ");
 Console.Write(username2);
+
+// Write( ) - Вывод в одну строку
+
+// WriteLine( ) - Ввывод спереходом в конце на новую строку
+
+// ReadLine( ) - Считать строку из терминала
